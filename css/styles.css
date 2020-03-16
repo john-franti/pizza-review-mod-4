@@ -1,18 +1,25 @@
 body {
-    background-color: rgb(208, 208, 235);
+    background-color: black;
 }
 
-.header-bar {
-    background-color: rgb(83, 83, 138);
-    color: #ccff00;
+.mainarea {
+    background-color:lightcoral;
+    color: darkblue;
     text-align: center;
     padding: 12px;
+    height:90%;
+}
+
+.footer {
+    height: 10%;
+    background-color: lightyellow;
 }
 
 .main {
-    background-color: darkblue;
+    background-color: lightskyblue;
+    width: 100%;
 }
 
-#answer {
-    display:none;
-}
+    #answer {
+        display: none;
+    }
